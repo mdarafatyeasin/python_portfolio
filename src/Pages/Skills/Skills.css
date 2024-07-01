@@ -1,0 +1,21 @@
+.skills-section{
+    height: 100vh;
+}
+
+.skills-section .skills-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.skills-section .skills-title h1{
+    color: #ffff;
+}
+
+.skills-title div{
+    height: 5px;
+    width: 10%;
+    background-color: #5cb0ff;
+    border-radius: 15px;
+}

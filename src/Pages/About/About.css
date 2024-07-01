@@ -1,0 +1,47 @@
+.about-section {
+    color: white;
+}
+
+.about-section h1 {
+    margin-bottom: 20px;
+    color: #5cb0ff;
+    text-align: center;
+}
+
+.about-content {
+    width: 80%;
+    margin: auto;
+    height: 70vh;
+}
+
+.img img {
+    width: 80%;
+    border-radius: 15px;
+}
+
+.about-content .content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000f1c98;
+    padding: 40px;
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.cv-button{
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.cv-button button {
+    text-align: center;
+    padding: 10px 20px;
+    background-color: #5cb0ff;
+    border: none;
+    border-radius: 25px;
+    width: 50%;
+}
