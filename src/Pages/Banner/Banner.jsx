@@ -21,22 +21,25 @@ const Banner = () => {
           <strong className="user-name"> Yeasin Arafat</strong>
         </h1>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum
-          dolores obcaecati nesciunt nam esse blanditiis, eligendi fuga itaque
-          qui cum dolorum, libero error exercitationem. Dolorem veritatis
-          aspernatur laborum commodi molestiae.
+          Hey!!! This is me Md.Yeasin Arafat. Welcome to my portfolio, from here
+          your can explore me more deeply. If you want me to work with your
+          please contact with me I wold love to work with you.
         </p>
         <div className="social">
           <div>
-            <a href="">
+            <a href="https://www.facebook.com/profile.php?id=100008908307991">
               <FaFacebook />
             </a>
           </div>
           <div>
-            <FaGithub />
+            <a href="https://github.com/mdarafatyeasin?tab=repositories">
+              <FaGithub />
+            </a>
           </div>
           <div>
-            <IoLogoLinkedin />
+            <a href="https://www.linkedin.com/in/md-yeasin-arafat-627067233/">
+              <IoLogoLinkedin />
+            </a>
           </div>
         </div>
       </div>
