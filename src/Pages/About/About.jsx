@@ -22,7 +22,9 @@ const About = () => {
               js, etc. I will keep this learning process consistent.
             </p>
             <div className="cv-button">
-              <button>Download CV</button>
+              <a href="/public/Md.Yeasin_Arafat (Resume).pdf" download>
+                <button>Download CV</button>
+              </a>
             </div>
           </div>
         </div>

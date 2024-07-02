@@ -15,7 +15,11 @@ const Navbar = () => {
         className={isMobile ? "nav-links" : "nav-links-mobile"}
       >
         <li>
-        <button className="button-85" role="button">Download CV</button></li>
+        <a href="/public/Md.Yeasin_Arafat (Resume).pdf" download>
+            <button className="button-85" role="button">Download CV</button>
+          </a>
+        {/* <button className="button-85" role="button">Download CV</button> */}
+        </li>
       </ul>
       <button
         className="mobile-menu-icon"
